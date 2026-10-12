@@ -1,0 +1,16 @@
+C:\Users\mrlsl\Desktop\dersler\Ders4\bin\Debug\net10.0\Ders4.exe
+C:\Users\mrlsl\Desktop\dersler\Ders4\bin\Debug\net10.0\Ders4.deps.json
+C:\Users\mrlsl\Desktop\dersler\Ders4\bin\Debug\net10.0\Ders4.runtimeconfig.json
+C:\Users\mrlsl\Desktop\dersler\Ders4\bin\Debug\net10.0\Ders4.dll
+C:\Users\mrlsl\Desktop\dersler\Ders4\bin\Debug\net10.0\Ders4.pdb
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.AssemblyInfoInputs.cache
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.AssemblyInfo.cs
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.csproj.CoreCompileInputs.cache
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.sourcelink.json
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.dll
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\refint\Ders4.dll
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.pdb
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.genruntimeconfig.cache
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\ref\Ders4.dll
+C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.csproj.Up2Date
