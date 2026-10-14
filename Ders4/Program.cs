@@ -99,11 +99,29 @@ internal class Program
 
 
 
-        // Kullanıcıdan iki adet sınav notunu alıp ortalamasını hesaplayın. Ekrana Aşağıdaki gibi yazdırın.
+        //Kullanıcıdan iki adet sınav notunu alıp ortalamasını hesaplayın. Ekrana Aşağıdaki gibi yazdırın. if blogu kullanılmasın
         // 1.Sınav: 70
         // 2.Sınav: 80
         // Ortalama: 75
         // Geçme Durumu: False
+
+
+        //Console.Write("Lütfen 1. Sınav Notunuzu Giriniz: ");
+        //int exam1 = Convert.ToInt32(Console.ReadLine());
+        //Console.Write("Lütfen 2. Sınav notunuzu giriniz.");
+        //int exam2 = Convert.ToInt32(Console.ReadLine());
+
+        //double average = (exam1 + exam2) / 2;
+
+        //bool isPassed = average >= 50;
+
+        //Console.WriteLine($"1. Sınav: {exam1}");
+        //Console.WriteLine($"2. Sınav: {exam2}");
+        //Console.WriteLine($"Ortalama: {average}");
+        //Console.WriteLine($"Geçme Durumu: {isPassed}");
+
+
+
 
 
 
@@ -112,7 +130,23 @@ internal class Program
         // Adınız: Sül*****
         // Soyadınız: ****al
 
+        //Console.Write("Lütfen Adınızı Giriniz: ");
+        //string name = Console.ReadLine();
+        //Console.Write("Lütfen Soyadınızı Giriniz: ");
+        //string surname = Console.ReadLine();
 
+        //Console.WriteLine($"Adınız: {name.Substring(0, 2)}*****");
+        //Console.WriteLine($"Soyadınız: ****{surname.Substring(surname.Length - 2)}");
+
+
+        //Random random = new Random();
+
+        //Console.WriteLine(random.Next(0, 17));
+
+
+
+
+  
 
 
 

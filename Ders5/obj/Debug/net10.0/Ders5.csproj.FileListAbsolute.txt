@@ -1,0 +1,17 @@
+C:\Users\mrlsl\Desktop\dersler\Ders5\bin\Debug\net10.0\Ders5.exe
+C:\Users\mrlsl\Desktop\dersler\Ders5\bin\Debug\net10.0\Ders5.deps.json
+C:\Users\mrlsl\Desktop\dersler\Ders5\bin\Debug\net10.0\Ders5.runtimeconfig.json
+C:\Users\mrlsl\Desktop\dersler\Ders5\bin\Debug\net10.0\Ders5.runtimeconfig.dev.json
+C:\Users\mrlsl\Desktop\dersler\Ders5\bin\Debug\net10.0\Ders5.dll
+C:\Users\mrlsl\Desktop\dersler\Ders5\bin\Debug\net10.0\Ders5.pdb
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.AssemblyInfoInputs.cache
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.AssemblyInfo.cs
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.csproj.CoreCompileInputs.cache
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.sourcelink.json
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.dll
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\refint\Ders5.dll
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.pdb
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.genruntimeconfig.cache
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\ref\Ders5.dll
+C:\Users\mrlsl\Desktop\dersler\Ders5\obj\Debug\net10.0\Ders5.csproj.Up2Date

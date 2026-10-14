@@ -14,3 +14,4 @@ C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.pdb
 C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.genruntimeconfig.cache
 C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\ref\Ders4.dll
 C:\Users\mrlsl\Desktop\dersler\Ders4\obj\Debug\net10.0\Ders4.csproj.Up2Date
+C:\Users\mrlsl\Desktop\dersler\Ders4\bin\Debug\net10.0\Ders4.runtimeconfig.dev.json
